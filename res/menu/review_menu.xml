@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/del_one"
+        android:title="پاک کردن این مورد"/>
+    <item
+        android:id="@+id/del_list"
+        android:title="پاک کردن لیست"/>
+    <item
+        android:id="@+id/del_all"
+        android:title="پاک کردن همه"/>
+
+</menu>

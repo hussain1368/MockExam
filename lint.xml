@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ButtonStyle">
+        <ignore path="res/layout/main.xml" />
+        <ignore path="res/layout/start.xml" />
+    </issue>
+    <issue id="HardcodedText" severity="ignore" />
+    <issue id="NestedWeights" severity="ignore" />
+    <issue id="TypographyEllipsis">
+        <ignore path="res/values/strings.xml" />
+    </issue>
+    <issue id="UnusedAttribute" severity="ignore" />
+</lint>

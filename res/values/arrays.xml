@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="cat_title">انتخاب مضمون</string>
+
+    <array name="subjects">
+       	<item>مضامین مختلف</item>
+       	<item>بیولوژی</item>
+       	<item>علوم دینی</item>
+       	<item>تاریخ</item>
+       	<item>جغرافیه</item>
+       	<item>لسان دری</item>
+       	<item>لسان پشتو</item>
+       	<item>معلومات عمومی</item>
+    </array>
+</resources>

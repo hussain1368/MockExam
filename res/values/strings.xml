@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="app_name">KANCOR</string>
+    <string name="exam_title">صفحه امتحان</string>
+    <string name="result_title">نتایج امتحان</string>
+    <string name="study_title">مرور سوالات</string>
+    <string name="review_title">مرور جوابهای غلط</string>
+    <string name="about_title">گروه نرم افزاری کابل سافت</string>
+    <string name="help_title">راهنمای برنامه کانکور</string>
+    <string name="msg_del_cur">جوابهای غلط برای این مورد پاک شوند؟</string>
+    <string name="msg_del_list">جوابهای غلط این لیست پاک شوند؟</string>
+    <string name="msg_del_all">تمام جوابهای غلط پاک شوند؟</string>
+    <string name="msg_no_wrong">لیست جوابهای غلط خالی است!</string>
+    <string name="msg_del_title">حذف جوابهای غلط</string>
+    <string name="btn_ok">تایید</string>
+    <string name="btn_yes">بلـــه</string>
+    <string name="btn_no">خیـــر</string>
+    <string name="tab_start">شروع امتحان</string>
+    <string name="tab_profile">مشخصات شما</string>
+    <string name="tab_world">امتیازات دیگران</string>
+    <string name="msg_photo_title">انتخاب تصویر</string>
+    <string name="msg_photo">ثبت تصویر برای مشخصات شما</string>
+    <string name="btn_camera">گرفتن عکس</string>
+    <string name="btn_file">انتخاب فایل</string>
+    <string name="msg_wait_send">در حال ارسال اطلاعات...</string>
+    <string name="msg_send_suc">اطلاعات با موفقیت ارسال شد!</string>
+    <string name="msg_send_fail">موفق به ارسال اطلاعات نشد!</string>
+    <string name="msg_receive_wait">در حال دریافت اطلاعات...</string>
+    <string name="msg_receive_fail">موفق به دریافت اطلاعات نیست!</string>
+    <string name="help_content">
+نرم افزار کانکور کاری از گروه نرم افزاری کابل سافت می باشد.\n
+این نرم افزار کاملا رایگان بوده و هرگونه استفاده مالی از آن غیر قانونی است. \n
+هدف از ساخت این برنامه کمک به متعلمین عزیز داوطلب امتحان کانکور در بالا بردن مهارت تست زنی آنها می باشد. \n
+کاربر می تواند یک موضوع خاص را انتخاب کرده یا به شکل تصادفی از موضوعات مختلف از خود امتحان بگیرد. \n
+بعد از هر امتحان سوالهایی که کاربر به آنها جواب غلط داده ثبت می شوند و کاربر می تواند بعدا آنها را مطالعه کند و در صورت یادگیری آنها را از لیست سوالات غلط حذف کند. \n
+همچنین کاربر می تواند سوالات موضوعات مختلف را مطالعه کند. در پایان هر امتحان امتیازی به کابر داده می شود که نسبت به تعداد جوابهای صحیح و زمان امتحان محاسبه می شود. \n
+در انتها کاربر می تواند بالاترین امتیاز کسب شده اش را با دیگران از طریق اینترنت به اشتراک گذاشته و هچنین از امتیازات دیگران باخبر شود.
+    </string>
+    
+    <string name="notif_new_score">یک امتیاز جدید ثبت شد: </string>
+    <string name="notif_new_score_title">امتیاز جدید</string>
+
+</resources>
